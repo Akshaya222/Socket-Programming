@@ -1,0 +1,22 @@
+
+1.Client sends an english sentence in lowercase to
+the server. Server has to convert all the lowercase
+to uppercase and revert back to the client. Here
+server is to provide a service of converting
+lowercase to uppercase sentences.
+USE TCP
+
+2.Client sends an integer to the server and server has to
+provide its square and cube.
+USE TCP
+
+3.Chat facility
+USE TCP
+
+4.To check whether given string is
+palindrome or not?
+USE IP
+
+5.To check whether the given integer is EVEN or
+ODD
+USE IP
